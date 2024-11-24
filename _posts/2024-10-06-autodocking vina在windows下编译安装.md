@@ -1,3 +1,10 @@
+---
+layout: post
+title: Autodock vina在windows下python编译安装
+katex: True
+tags: 软件工具
+---
+
 # <center>Autodock vina在windows下python编译安装</center> 
 
 

@@ -3,7 +3,7 @@ layout: page
 title: 技术支持 
 ---
 
-本博客源码在 <a target="_blank" href='https://github.com/wupengss/wupengss.github.io/'>Github</a> 上，完全参考了<a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io//'>leopardpan</a>的博客源码，欢迎关注和Star， 这是我保持更新的动力，谢谢~
+本博客源码在 <a target="_blank" href='https://github.com/wupengss/wupengss.github.io/'>Github</a> 上，参考了<a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io//'>leopardpan</a>的博客源码，欢迎关注和Star， 这是我保持更新的动力，谢谢~
 
 <h3> 我能给你解答的问题有 </h3>
 
